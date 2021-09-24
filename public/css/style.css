@@ -1,0 +1,15 @@
+*{
+    background-color: #F9E9AB ;
+    list-style: none;
+    text-decoration: none;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+li, a{
+    flex-direction: row;
+    font-family: cursive;
+    color: black;
+}
